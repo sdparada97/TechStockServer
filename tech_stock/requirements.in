@@ -1,0 +1,6 @@
+django
+django-environ
+djangorestframework
+psycopg2-binary
+pytest
+pytest-django
